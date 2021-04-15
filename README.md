@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on AResponcePresence - A program that watches the system activity and sends the activity name to the Discord Rich Presence API.
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning C++
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Favourite programming languages: Python & JavaScript

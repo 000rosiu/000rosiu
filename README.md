@@ -12,6 +12,7 @@ Environment:
  - <img align="center" src="https://img.shields.io/badge/JetBrains-IDE'S-2ea44f?style=for-the-badge&logo=jetbrains" />
  - <img align="center" src="https://img.shields.io/badge/Discord-Communication-2ea44f?style=for-the-badge&logo=discord" />
  - <img align="center" src="https://img.shields.io/badge/Raspberry_Pi-2nd._computer-2ea44f?style=for-the-badge&logo=raspberrypi" />
+ - <img align="center" src="https://img.shields.io/badge/Vivaldi-Web_browser-2ea44f?style=for-the-badge&logo=vivaldi" />
 Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=awitech&count_private=true&show_icons=true&layout=compact" />

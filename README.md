@@ -11,9 +11,12 @@ Environment:
  - <img align="center" src="https://img.shields.io/badge/Windows_10-2nd._OS-2ea44f?style=for-the-badge&logo=windows" />
  - <img align="center" src="https://img.shields.io/badge/JetBrains-IDE'S-2ea44f?style=for-the-badge&logo=jetbrains" />
  - <img align="center" src="https://img.shields.io/badge/Discord-Communication-2ea44f?style=for-the-badge&logo=discord" />
- - <img align="center" src="https://img.shields.io/badge/Raspberry_Pi-2nd._computer-2ea44f?style=for-the-badge&logo=raspberrypi" />
- - <img align="center" src="https://img.shields.io/badge/Vivaldi-Web_browser-2ea44f?style=for-the-badge&logo=vivaldi" />
  - <img align="center" src="https://img.shields.io/badge/Dell-1.nd_Computer-2ea44f?style=for-the-badge&logo=dell" />
+ - <img align="center" src="https://img.shields.io/badge/HP-2.nd_Computer-2ea44f?style=for-the-badge&logo=hp" />
+ - <img align="center" src="https://img.shields.io/badge/Raspberry_Pi-3nd._computer-2ea44f?style=for-the-badge&logo=raspberrypi" />
+ - <img align="center" src="https://img.shields.io/badge/Raspberry_Pi-3nd._computer-2ea44f?style=for-the-badge&logo=raspberrypi" />
+ - <img align="center" src="https://img.shields.io/badge/iOS-Mobile_OS-2ea44f?style=for-the-badge&logo=apple" />
+ - 
 Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=awitech&count_private=true&show_icons=true&layout=compact" />

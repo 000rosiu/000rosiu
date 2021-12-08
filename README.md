@@ -17,7 +17,7 @@ Environment:
  - <img align="center" src="https://img.shields.io/badge/Amazfit-Watch-2ea44f?style=for-the-badge&logo=xiaomi" />
  - <img align="center" src="https://img.shields.io/badge/iOS-Mobile_OS-2ea44f?style=for-the-badge&logo=apple" />
  - <img align="center" src="https://img.shields.io/badge/Google_Assistant-Virtual_Assistant-2ea44f?style=for-the-badge&logo=googleassistant" />
- - <img align="center" src="https://img.shields.io/badge/Alexa-2nd._Virtual_Assistant-2ea44f?style=for-the-badge&logo=alexa" />
+ - <img align="center" src="https://img.shields.io/badge/Alexa-2nd._Virtual_Assistant-2ea44f?style=for-the-badge&logo=amazonalexa" />
 Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=awitech&count_private=true&show_icons=true&layout=compact" />

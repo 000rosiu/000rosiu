@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on: nothing
 - 🌱 I’m currently learning: C#
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
 - ⚡ Favourite programming languages: JS, C#, Node.js Framework, HTML and batch
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=awitech&count_private=true&show_icons=true&layout=compact" />

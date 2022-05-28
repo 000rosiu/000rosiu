@@ -7,7 +7,7 @@
 - ⚡ Favourite programming languages: JS, C#, Node.js Framework, HTML and batch
 
 Environment:
- - <img align="center" src="https://img.shields.io/badge/Kali_Linux-1.nd OS-2ea44f?style=for-the-badge&logo=linuxmint" />
+ - <img align="center" src="https://img.shields.io/badge/Kali_Linux-1.nd OS-2ea44f?style=for-the-badge&logo=kalilinux" />
  - <img align="center" src="https://img.shields.io/badge/Windows_10-2nd._OS-2ea44f?style=for-the-badge&logo=windows" />
  - <img align="center" src="https://img.shields.io/badge/JetBrains-IDE'S-2ea44f?style=for-the-badge&logo=jetbrains" />
  - <img align="center" src="https://img.shields.io/badge/Discord-Communication-2ea44f?style=for-the-badge&logo=discord" />

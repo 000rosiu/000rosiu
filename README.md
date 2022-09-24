@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working on: nothing
-- 🌱 I’m currently learning: C#
-- ⚡ Favourite programming languages: JS, C#, Node.js Framework, HTML and batch
+- 🔭 I’m currently working on: 
+- 🌱 I’m currently learning: 
+- ⚡ Favourite programming languages:
 
 Environment:
- - <img align="center" src="https://img.shields.io/badge/Kali_Linux-1.nd OS-2ea44f?style=for-the-badge&logo=linux" />
+ - <img align="center" src="https://img.shields.io/badge/Manjaro-1.nd OS-2ea44f?style=for-the-badge&logo=linux" />
  - <img align="center" src="https://img.shields.io/badge/Windows_10-2nd._OS-2ea44f?style=for-the-badge&logo=windows" />
  - <img align="center" src="https://img.shields.io/badge/JetBrains-IDE'S-2ea44f?style=for-the-badge&logo=jetbrains" />
  - <img align="center" src="https://img.shields.io/badge/Discord-Communication-2ea44f?style=for-the-badge&logo=discord" />

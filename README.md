@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: 
-- ⚡ Favourite programming languages:
+- X
+- Y
+- Z
 
 Environment:
  - <img align="center" src="https://img.shields.io/badge/Manjaro-1.nd OS-2ea44f?style=for-the-badge&logo=manjaro" />

@@ -2,7 +2,7 @@
 
 
 
-- Currently learning: Kotlin
+- Currently learning: Kotlin, Scala
 - Favourite programming languages: Batch, Python, HTML, Kotlin and there was still some but I do not remember what
 - Residence: Pomerania, Poland
 

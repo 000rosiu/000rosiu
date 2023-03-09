@@ -2,8 +2,8 @@
 
 
 
-- Currently learning: Kotlin, Scala
-- Favourite programming languages: Batch, Python, HTML, Kotlin and there was still some but I do not remember what
+- Currently learning: I'm trying to play with next.js ...
+- Favourite programming languages: Batch, Python, HTML and JS frameworks
 - Residence: Pomerania, Poland
 
 ### Environment:

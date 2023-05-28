@@ -2,8 +2,8 @@
 
 
 
-- Currently learning: I'm trying to play with next.js / react.js ...
-- Favourite programming languages: Batch, Python, HTML and JS frameworks
+- Currently learning: I'm trying to play with React and NEXT
+- Favourite programming languages: Batch, Python, HTML and frameworks
 - Residence: Pomerania, Poland
 
 ### Environment:

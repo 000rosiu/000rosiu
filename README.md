@@ -2,8 +2,8 @@
 
 
 
-- Currently learning: I'm trying to play with React and NEXT
-- Favourite programming languages: Batch, Python, HTML and frameworks
+- Currently learning: I'm trying to learn Bootstrap
+- Favourite programming languages: Batch, Python, HTML and some frameworks
 - Residence: Pomerania, Poland
 
 ### Environment:

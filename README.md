@@ -8,7 +8,7 @@
 
 ### Environment:
  - <img align="center" src="https://img.shields.io/badge/Windows_11-1nd._OS-2ea44f?style=for-the-badge&logo=windows11" />
- - <img align="center" src="https://img.shields.io/badge/Debian-2nd. OS-2ea44f?style=for-the-badge&logo=debian" />
+ - <img align="center" src="https://img.shields.io/badge/Fedora-2nd. OS-2ea44f?style=for-the-badge&logo=fedora" />
  - <img align="center" src="https://img.shields.io/badge/JetBrains-IDE'S-2ea44f?style=for-the-badge&logo=jetbrains" />
  - <img align="center" src="https://img.shields.io/badge/Discord-Communication-2ea44f?style=for-the-badge&logo=discord" />
  - <img align="center" src="https://img.shields.io/badge/iOS-Mobile_OS-2ea44f?style=for-the-badge&logo=apple" />

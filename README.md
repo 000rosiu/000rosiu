@@ -10,7 +10,7 @@
  - <img align="center" src="https://img.shields.io/badge/Windows_11-1nd._OS-2ea44f?style=for-the-badge&logo=windows11" />
  - <img align="center" src="https://img.shields.io/badge/Fedora-2nd. OS-2ea44f?style=for-the-badge&logo=fedora" />
  - <img align="center" src="https://img.shields.io/badge/iOS-Mobile_OS-2ea44f?style=for-the-badge&logo=apple" />
- - <img align="center" src="https://img.shields.io/badge/ESP_SoC's-Favourite_Toy-2ea44f?style=for-the-badge&logo=espressif" />
+ - <img align="center" src="https://img.shields.io/badge/Espressif_ESP-Favourite_Toy-2ea44f?style=for-the-badge&logo=espressif" />
  - <img align="center" src="https://img.shields.io/badge/JetBrains-IDE'S-2ea44f?style=for-the-badge&logo=jetbrains" />
 
  

@@ -3,7 +3,7 @@
 
 
 - Currently learning: I'm trying to learn Bootstrap
-- Favourite programming languages: Batch, C#, HTML and some frameworks
+- Favourite programming languages: Batch, C#, Python, HTML and some frameworks
 - Residence: Pomerania, Poland
 
 ### Environment:
